@@ -21,7 +21,8 @@ Welcome to my GitHub repository, where I showcase my coding projects and share m
 
 - 📫 Contact Me
      LinkedIn: https://www.linkedin.com/in/vidhya-khubalkar-067917270
-     GitHub: [Your GitHub Profile Link]
+
+     GitHub: github.com/vidhya-khubalkar
 
 I'm always open to new opportunities, collaborations, and feedback. 
 Feel free to connect with me and let's discuss how we can create innovative solutions together! 💻✨
