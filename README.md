@@ -11,7 +11,7 @@ Welcome to my GitHub repository, where I showcase my coding projects and share m
 - 🌱 I’m currently learning "Learn C++ Programming -Beginner to Advance- Deep Dive in C++", 
      "Learn JAVA Programming - Beginner to Master" & 
      "Mastering Data Structures & Algorithms using C and C++"
-     On UDEMY;
+     On UDEMY. And doing my first internship at YHILLS in "DATA SCIENCE".
 
 - 🚀 Goals
      Continuously improve my coding skills and stay updated with the latest technologies and industry trends.
